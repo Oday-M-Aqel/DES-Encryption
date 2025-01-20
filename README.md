@@ -70,7 +70,6 @@ My name is **Oday Aqel**, and I’m a fresh graduate in Applied Computing. I cre
 I plan to:  
 - Add decryption functionality.  
 - Make the GUI even more interactive.  
-- Implement more encryption algorithms.  
 
 ---
 
